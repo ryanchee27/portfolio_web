@@ -33,7 +33,7 @@ export default function Home() {
           About Me:
         </h2>
         <p className="text-[18px] leading-relaxed">
-          I’m a Junior at James Madison University studying Computer Science.<br></br>
+          I&apos;m a Junior at James Madison University studying Computer Science.<br></br>
           Notable Next Semester Classes:
         </p>
         <ul className="list-disc list-inside pl-4 space-y-1">

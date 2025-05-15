@@ -7,10 +7,10 @@ export default function Home() {
       <div className="pl-20 pt-10 pb-20 flex items-center gap-5 z-[10]">
         {/* header image and info */}
         <div className="w-[400px] h-[400px] rounded-full overflow-hidden">
-          <Link href='https://www.linkedin.com/in/ryan-chee-337251313/' target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.linkedin.com/in/ryan-chee-337251313/" target="_blank" rel="noopener noreferrer">
             <Image
-              src='/images/headshot.png'
-              alt='Ryan Chee'
+              src="/images/headshot.png"
+              alt="Ryan Chee"
               width={400}
               height={400}
               className="object-cover"
